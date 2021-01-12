@@ -1,0 +1,1 @@
+$("div").slideToggle(3000);
